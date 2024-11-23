@@ -1,0 +1,6 @@
+terminal-img
+pyfiglet
+rich
+inquirer
+requests
+pyttsx3
